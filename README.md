@@ -2,8 +2,9 @@
 
 1. Your First C++ Application
 
-  Exercise 01: [First Application](Exercise01/firstApplication.cpp)                      
-  Exercise 02: [Defining Values with Preprocessor Directives](Exercise02/main.cpp)
+    Exercise 01: [First Application](Exercise01/firstApplication.cpp)                      
+    Exercise 02: [Defining Values with Preprocessor Directives](Exercise02/main.cpp)
+    Exercise 03: [Reading User Details](Exercise03/main.cpp)
 
 2. Control Flow
 
