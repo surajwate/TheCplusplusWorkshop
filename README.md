@@ -10,6 +10,9 @@
 
 2. Control Flow
 
+    Exercise 05: [Implementing if/else Statements]
+    Exercise 06: [Creating a Simple Menu Program Using an if/else Statement]
+
 3. Built-In Data Types
 
 4. Operators
