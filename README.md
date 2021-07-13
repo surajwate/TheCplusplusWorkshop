@@ -2,6 +2,8 @@
 
 1. Your First C++ Application
 
+  Exercise 01: [First Application](Exercise01/firstApplication.cpp)
+
 2. Control Flow
 
 3. Built-In Data Types
