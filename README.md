@@ -10,15 +10,15 @@
 
 2. Control Flow                 
 
-    Exercise 05: [Implementing if/else Statements]()
-    Exercise 06: [Creating a Simple Menu Program Using an if/else Statement]()
-    Exercise 07: [Refactor an if/else Chain into switch/case]()
-    Exercise 08: [Implementing a while Loop]()
-    Exercise 09: [Implementing while and do while Loops with a False Condition]()
-    Exercise 10: [Implementing a for Loop]()
-    Exercise 11: [Generating Random Numbers Using Loops]()
-    Exercise 12: [Making a Loop More Efficient Using break and continue]()
-    Activity 02: [Creating a Number-Guessing Game Using Loops and Conditional Statements]()
+    Exercise 05: [Implementing if/else Statements](Exercise05/main.cpp)
+    Exercise 06: [Creating a Simple Menu Program Using an if/else Statement](Exercise06/main.cpp)
+    Exercise 07: [Refactor an if/else Chain into switch/case](Exercise07/main.cpp)
+    Exercise 08: [Implementing a while Loop](Exercise08/main.cpp)
+    Exercise 09: [Implementing while and do while Loops with a False Condition](Exercise09/main.cpp)
+    Exercise 10: [Implementing a for Loop](Exercise10/main.cpp)
+    Exercise 11: [Generating Random Numbers Using Loops](Exercise11/main.cpp)
+    Exercise 12: [Making a Loop More Efficient Using break and continue](Exercise12/main.cpp)
+    Activity 02: [Creating a Number-Guessing Game Using Loops and Conditional Statements](Activity02/main.cpp)
 
 3. Built-In Data Types
 
