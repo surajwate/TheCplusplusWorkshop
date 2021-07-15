@@ -13,17 +13,28 @@ public:
     void addRecord()
     {
         std::string name = "";
-        int age = 0;
         std::cout << "Add User. Please enter user name and age:" << std::endl
                   << "Name: ";
         std::getline(std::cin, name); // This read will give us just a newline sign from previous I/O operations
         std::getline(std::cin, name); // This will give us the actual name
-        userNames.push_back(name);
+
+        std::string age = "";
         std::cout << "Age: ";
-        std::cin >> age;
-        userAge.push_back(age);
-        std::cout << std::endl
-                  << "User record added successfully.";
+        std::getline(std::cin, age); // We don't need to perform an additional read here
+
+        try
+        {
+            userAge.push_back(std::stoi(age));
+        }
+        catch (std::invalid_argument)
+        {
+            std::cout << "Given age in not a valid number." << std::endl
+                      << "User record not added." << std::endl;
+            return;
+        }
+
+        userNames.push_back(name); // Add the name record after we have successfully added the age record
+        std::cout << "User record added successfully.";
     }
 
     void fetchRecord()
