@@ -42,28 +42,27 @@
 
 ## 5. Pointers and References                     
                       
-                      
+
 ## 6. Dynamic Variables                        
                       
-                      
+
 ## 7. Ownership and Lifetime of Dynamic Variables                     
                       
-                      
+
 ## 8. Classes and Structs                   
                       
-                      
+
 ## 9. Object-Oriented Principles                          
                       
-                      
+
 ## 10. Advanced Object-Oriented Principles                         
                       
-                      
+
 ## 11. Templates                          
                       
-                      
+
 ## 12. Containers and Iterators                          
                       
-                      
+
 ## 13. Exception Handling in C++                     
-                      
                       
