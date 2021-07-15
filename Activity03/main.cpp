@@ -16,7 +16,8 @@ public:
         int age = 0;
         std::cout << "Add User. Please enter user name and age:" << std::endl
                   << "Name: ";
-        std::cin >> name;
+        std::getline(std::cin, name); // This read will give us just a newline sign from previous I/O operations
+        std::getline(std::cin, name); // This will give us the actual name
         userNames.push_back(name);
         std::cout << "Age: ";
         std::cin >> age;
