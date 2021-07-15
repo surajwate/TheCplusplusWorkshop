@@ -32,6 +32,11 @@
     Activity 03: [Sign-Up Application](Activity03/main.cpp)
 
 4. Operators                 
+    Exercise 21: [The Prime Number Checker](Exercise21/main.cpp)
+    Exercise 22: [The Time-of-Day Calculator](Exercise22/main.cpp)
+    Exercise 23: [A Pre-Increment/Post-Increment Example](Exercise23/main.cpp)
+    Exercise 24: [Logical Operators Example](Exercise24/main.cpp)
+    Exercise 25: [Operator Overloading Example](Exercise25/main.cpp)
 
 5. Pointers and References                     
 
